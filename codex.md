@@ -8,6 +8,8 @@ permalink: /codex/
 
 # The Toolsmiths Codex
 
+_Last update to the Codex - May 20, 2019_
+
 The Codex is a warehouse of information that is constantly curated by the Slack to hold reference information about best practices in tools. These topics are perennial at the Technical Issues in Tools roundtables at GDC, and by having this information available on the website we can focus more attention to trends and changes in the state of the art instead of calling out known solutions.
 
 Also, the codex is an excellent resource to link to tools related lectures available on the GDC Vault, Twitch, Youtube, etc…
@@ -33,6 +35,11 @@ Knowing the right words is like having the right tools for the job.
 
 ### [GDC]({{ site.baseurl }}{% link codex/gdc/gdc_codex.md %})
 GDC Vault links to tool related lectures and Tools SIG round table Notes.
+
+------
+
+### [Learning Paths]({{ site.baseurl }}{% link codex/learning_paths/learning_paths.md %})
+Helping to become masters of the trade
 
 ------
 

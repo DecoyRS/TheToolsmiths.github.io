@@ -18,6 +18,10 @@ nav_tag: gdc
 
 ------
 
+#### [GDC Procedural Content Generation Sessions]({{ site.baseurl }}{% link codex/gdc/procedural_content_generation/sessions.md %})
+
+------
+
 #### [GDC Production Sessions]({{ site.baseurl }}{% link codex/gdc/production/sessions.md %})
 
 ------
@@ -30,6 +34,10 @@ nav_tag: gdc
 
 ------
 
+#### [GDC Tools Tutorial Day]({{ site.baseurl }}{% link codex/gdc/tools_tutorial_day/sessions.md %})
+
+------
+
 #### [GDC Technical Issues in Tools Roundtables]({{ site.baseurl }}{% link codex/gdc/roundtable/technical_issues_in_tools/sessions.md %})
 
 ------
@@ -38,4 +46,12 @@ nav_tag: gdc
 
 ------
 
+#### [GDC Infrastructure & Reliability Sessions]({{ site.baseurl }}{% link codex/gdc/infrastructure_n_reliability/sessions.md %})
+
+------
+
 #### [GDC Tech Toolbox Sessions]({{ site.baseurl }}{% link codex/gdc/tech_toolbox/sessions.md %})
+
+------
+
+#### [GDC Team Management Sessions]({{ site.baseurl }}{% link codex/gdc/team_management/sessions.md %})
